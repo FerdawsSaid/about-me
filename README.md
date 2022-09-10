@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Nadia Morjane's blog - About my career</title>
+        <title>Ferdaws Said's blog - About my career</title>
         <meta name="description" content="">
     </head>
     <body>
